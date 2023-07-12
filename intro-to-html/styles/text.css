@@ -1,0 +1,57 @@
+p{
+  font-family: Arial;
+}
+
+.vt{
+  font-weight: bold;
+  font-size: 18px;
+  width: 300px;
+  line-height: 24px;
+  margin-bottom: 5px;
+}
+
+.vid-stat{
+  font-size: 14px;
+  color:#606060;
+  margin-top: 0px;
+  margin-bottom:20px;
+}
+
+.author{
+color:#606060;
+font-size: 14px;
+margin-top: 0px;
+margin-bottom: 20px;
+}
+
+.des{
+font-size: 14px;
+color:#606060;
+width: 280px;
+line-height: 22px;
+margin-top: 0px;
+margin-bottom: 100px;
+}
+
+.shop{
+margin-bottom: 50px;
+font-size: 14px;
+background-color: #e34140;
+color: white;
+text-align: center;
+padding-top: 18px;
+padding-bottom: 18px;
+cursor: pointer;
+}
+
+.sho{
+color: white;
+margin-left: 18px;
+}
+
+.sho:hover{
+text-decoration: underline;
+
+}
+
+
